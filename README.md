@@ -4,6 +4,13 @@
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
     <img src="./dark.svg" alt="Vansh Vats — CSE (AI) student, full-stack developer and aspiring ML engineer" width="100%">
   </picture>
+  <p align="center">
+  <img
+    src="./pixel-portrait.png"
+    alt="Vansh's pixel-art portrait"
+    width="220"
+  />
+</p>
 </div>
 
 <h2 align="center">Hey, I'm Vansh 👋</h2>
