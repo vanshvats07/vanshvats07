@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">Vansh Vats — CSE AI student, full-stack developer and aspiring ML engineer</title>
+<desc id="desc">A dark terminal-inspired profile banner. An abstract character-based visual map appears on the left, with profile information, engineering focus, technologies, projects and links on the right.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050914"/><stop offset=".55" stop-color="#0a1426"/><stop offset="1" stop-color="#10112a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".52" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17243a" stop-opacity=".82"/><stop offset="1" stop-color="#0d1728" stop-opacity=".62"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#22d3ee" stop-opacity=".18"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#8ba4c7" stroke-opacity=".075" stroke-width="1"/></pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="12"/></filter>
+  <clipPath id="frame"><rect x="12" y="12" width="1156" height="586" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1180" height="610" fill="url(#bg)"/>
+  <rect width="1180" height="610" fill="url(#grid)"/>
+  <circle cx="210" cy="230" r="270" fill="url(#glow)"/>
+  <circle cx="1030" cy="520" r="260" fill="#7c3aed" opacity=".08" filter="url(#shadow)"/>
+  <rect x="12" y="12" width="1156" height="586" rx="22" fill="none" stroke="#8aa6ca" stroke-opacity=".28"/>
+  <rect x="12" y="12" width="1156" height="42" fill="#0b1424" fill-opacity=".9"/>
+  <circle cx="36" cy="33" r="5" fill="#fb7185"/><circle cx="54" cy="33" r="5" fill="#fbbf24"/><circle cx="72" cy="33" r="5" fill="#34d399"/>
+  <text x="96" y="37" fill="#9fb2cc" font-family="monospace" font-size="12">vansh@profile:~ / README</text>
+  <text x="1127" y="37" text-anchor="end" fill="#34d399" font-family="monospace" font-size="10" letter-spacing="1.5">● ONLINE</text>
+
+  <!-- Left visual map -->
+  <rect x="34" y="76" width="390" height="492" rx="16" fill="url(#panel)" stroke="#8ba4c7" stroke-opacity=".25"/>
+  <text x="58" y="108" fill="#67e8f9" font-family="monospace" font-size="11" letter-spacing="2">01 / VISUAL.MAP</text>
+  <path d="M58 122H400" stroke="url(#accent)" stroke-opacity=".6"/>
+  <rect x="75" y="148" width="308" height="250" rx="12" fill="#07101e" stroke="#38bdf8" stroke-opacity=".24"/>
+  <text x="94" y="177" fill="#64748b" font-family="monospace" font-size="10">SIGNAL_IDENTITY // VV</text>
+  <g font-family="monospace" font-size="13" letter-spacing="2" text-anchor="middle" fill="url(#accent)">
+    <text x="229" y="215">····················</text>
+    <text x="229" y="237">···░░▒▒▓▓▓▓▒▒░░···</text>
+    <text x="229" y="259">··░▒▓▓▓▓▓▓▓▓▓▒░··</text>
+    <text x="229" y="281">·░▒▓▓▒░··░▒▓▓▒░·</text>
+    <text x="229" y="303">·░▒▓▓▓▒▒▒▒▓▓▓▒░·</text>
+    <text x="229" y="325">··░▒▓▓▓▓▓▓▓▓▒░··</text>
+    <text x="229" y="347">···░▒▒▓▓▓▓▒▒░···</text>
+    <text x="229" y="369">····░░▒▒▒▒░░····</text>
+  </g>
+  <path d="M86 380H372" stroke="#22d3ee" stroke-opacity=".25"/>
+  <text x="229" y="423" text-anchor="middle" fill="#f8fafc" font-family="monospace" font-size="25" font-weight="700" letter-spacing="5">V / V</text>
+  <text x="229" y="447" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="10" letter-spacing="2">BUILD  •  LEARN  •  ITERATE</text>
+  <rect x="58" y="477" width="342" height="1" fill="#64748b" opacity=".35"/>
+  <text x="58" y="504" fill="#64748b" font-family="monospace" font-size="10">$ whoami</text>
+  <text x="58" y="526" fill="#cbd5e1" font-family="monospace" font-size="12">curious mind, practical builder</text>
+  <text x="58" y="548" fill="#22d3ee" font-family="monospace" font-size="10">[ learning in public ]</text>
+  <rect x="34" y="76" width="390" height="492" rx="16" fill="none" stroke="url(#accent)" stroke-opacity=".25">
+    <animate attributeName="stroke-opacity" values=".12;.42;.12" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Right system panel -->
+  <rect x="446" y="76" width="700" height="492" rx="16" fill="url(#panel)" stroke="#8ba4c7" stroke-opacity=".25"/>
+  <text x="474" y="108" fill="#67e8f9" font-family="monospace" font-size="11" letter-spacing="2">02 / SYSTEM.INFO</text>
+  <text x="1118" y="108" text-anchor="end" fill="#64748b" font-family="monospace" font-size="10">PROFILE.SYS</text>
+  <path d="M470 122H1122" stroke="url(#accent)" stroke-opacity=".6"/>
+  <text x="474" y="164" fill="#f8fafc" font-family="Arial, sans-serif" font-size="34" font-weight="700">Vansh Vats</text>
+  <text x="474" y="192" fill="#67e8f9" font-family="monospace" font-size="14">CSE (AI) Student  ·  Full-Stack Developer</text>
+  <text x="474" y="216" fill="#a5b4c8" font-family="Arial, sans-serif" font-size="13">Exploring machine learning and building useful software.</text>
+
+  <rect x="474" y="237" width="644" height="88" rx="10" fill="#07111f" fill-opacity=".65" stroke="#64748b" stroke-opacity=".25"/>
+  <text x="494" y="260" fill="#64748b" font-family="monospace" font-size="10">$ ./profile.sh</text>
+  <text x="494" y="284" fill="#67e8f9" font-family="monospace" font-size="11">EDUCATION</text>
+  <text x="615" y="284" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="12">B.Tech — CSE (AI), Maharaja Agrasen Institute of Technology</text>
+  <text x="494" y="307" fill="#67e8f9" font-family="monospace" font-size="11">FOCUS</text>
+  <text x="615" y="307" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="12">Full-stack engineering · ML foundations · DSA in C++</text>
+
+  <text x="474" y="357" fill="#67e8f9" font-family="monospace" font-size="10" letter-spacing="1.5">CORE TOOLKIT</text>
+  <g font-family="monospace" font-size="11" fill="#dbeafe">
+    <rect x="474" y="370" width="72" height="26" rx="7" fill="#172c42" stroke="#22d3ee" stroke-opacity=".35"/><text x="510" y="387" text-anchor="middle">C++</text>
+    <rect x="554" y="370" width="100" height="26" rx="7" fill="#172c42" stroke="#22d3ee" stroke-opacity=".35"/><text x="604" y="387" text-anchor="middle">JavaScript</text>
+    <rect x="662" y="370" width="76" height="26" rx="7" fill="#172c42" stroke="#22d3ee" stroke-opacity=".35"/><text x="700" y="387" text-anchor="middle">Python</text>
+    <rect x="746" y="370" width="76" height="26" rx="7" fill="#172c42" stroke="#22d3ee" stroke-opacity=".35"/><text x="784" y="387" text-anchor="middle">Node.js</text>
+    <rect x="830" y="370" width="78" height="26" rx="7" fill="#172c42" stroke="#22d3ee" stroke-opacity=".35"/><text x="869" y="387" text-anchor="middle">Express</text>
+    <rect x="916" y="370" width="92" height="26" rx="7" fill="#172c42" stroke="#22d3ee" stroke-opacity=".35"/><text x="962" y="387" text-anchor="middle">MongoDB</text>
+    <rect x="1016" y="370" width="82" height="26" rx="7" fill="#172c42" stroke="#22d3ee" stroke-opacity=".35"/><text x="1057" y="387" text-anchor="middle">Next.js</text>
+  </g>
+
+  <text x="474" y="427" fill="#67e8f9" font-family="monospace" font-size="10" letter-spacing="1.5">SELECTED BUILDS</text>
+  <g font-family="Arial, sans-serif">
+    <text x="474" y="450" fill="#f1f5f9" font-size="12" font-weight="700">RepairX</text><text x="558" y="450" fill="#94a3b8" font-size="11">Device repair, recovery and resale intelligence</text>
+    <text x="474" y="472" fill="#f1f5f9" font-size="12" font-weight="700">FutureReady AI</text><text x="588" y="472" fill="#94a3b8" font-size="11">AI-powered career readiness platform</text>
+    <text x="474" y="494" fill="#f1f5f9" font-size="12" font-weight="700">PatchCraft AI</text><text x="588" y="494" fill="#94a3b8" font-size="11">Prompt-driven, localized video editing concept</text>
+    <text x="474" y="516" fill="#f1f5f9" font-size="12" font-weight="700">VyaparMitra · EchoLink</text><text x="650" y="516" fill="#94a3b8" font-size="11">Small-business tooling · communication / SOS</text>
+  </g>
+  <path d="M474 534H1118" stroke="#64748b" stroke-opacity=".28"/>
+  <g font-family="monospace" font-size="10">
+    <a xlink:href="https://github.com/vanshvats07"><text x="474" y="553" fill="#67e8f9">GITHUB ↗</text></a>
+    <a xlink:href="https://linkedin.com/in/vanshvats07"><text x="570" y="553" fill="#67e8f9">LINKEDIN ↗</text></a>
+    <a xlink:href="https://vansh-portfolio-xi-blond.vercel.app"><text x="690" y="553" fill="#67e8f9">PORTFOLIO ↗</text></a>
+    <text x="1118" y="553" text-anchor="end" fill="#64748b">v1.0 / ALWAYS LEARNING</text>
+  </g>
+  <rect x="12" y="12" width="1156" height="586" rx="22" fill="none" stroke="url(#accent)" stroke-width="1.2" stroke-dasharray="180 1100" opacity=".5">
+    <animate attributeName="stroke-dashoffset" values="0;-1280" dur="18s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>
