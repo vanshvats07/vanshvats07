@@ -1,27 +1,9 @@
- <div align="center">
-  <table>
-    <tr>
-      <td width="35%" align="center" valign="middle">
-        <img src="./pixel-portrait.png" alt="Vansh Vats — pixel-art portrait" width="220">
-        <br>
-        <strong>V / V</strong>
-        <br>
-        <sub>BUILD · LEARN · ITERATE</sub>
-      </td>
-      <td width="65%" valign="middle">
-        <h1>Hey, I'm Vansh Vats 👋</h1>
-        <h3>CSE (AI) Student · Full-Stack Developer · Aspiring ML Engineer</h3>
-        <p>
-          B.Tech CSE (AI) student at Maharaja Agrasen Institute of Technology, passionate about building practical software, exploring AI/ML, and solving engineering problems.
-        </p>
-        <p>
-          <a href="https://github.com/vanshvats07">GitHub</a> ·
-          <a href="https://linkedin.com/in/vanshvats07">LinkedIn</a> ·
-          <a href="https://vansh-portfolio-xi-blond.vercel.app">Portfolio</a>
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshvats07/vanshvats07/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshvats07/vanshvats07/main/light.svg">
+    <img src="https://raw.githubusercontent.com/vanshvats07/vanshvats07/main/dark.svg" width="100%" alt="Vansh Vats Profile Banner">
+  </picture>
 </div>
 
 ---
@@ -48,7 +30,7 @@
 ### Tech Stack
 
 **Languages**
- 
+
 `C++` `JavaScript` `Python`
 
 **Frontend**
@@ -73,6 +55,7 @@
 
 - **9.21 GPA** — Academic performance.
 - **500+ DSA problems** solved across platforms.
+- **4x Hackathon Finalist**.
 - **Top 10 Finish** — DEADLOCK '26 Round 2 with Team CodeGang.
 - **Unstop Campus Champion**.
 - Participated in **15+ hackathons**.
