@@ -96,11 +96,13 @@
   <img src="https://streak-stats.demolab.com/?user=vanshvats07&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshvats07&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=vanshvats07&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" />
 </p>
+
 
 
 ---
