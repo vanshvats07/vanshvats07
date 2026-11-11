@@ -82,21 +82,28 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vanshvats07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=vanshvats07&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshvats07&theme=tokyonight&hide_border=true&layout=compact)
+## 📊 GitHub Analytics
 
----
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=vanshvats07&theme=tokyonight&show_icons=true&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vanshvats07&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vanshvats07&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vanshvats07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshvats07&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=vanshvats07&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/vanshvats07)
+
 
