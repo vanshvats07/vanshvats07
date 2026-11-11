@@ -1,86 +1,102 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshvats07/vanshvats07/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshvats07/vanshvats07/main/light.svg">
-    <img src="https://raw.githubusercontent.com/vanshvats07/vanshvats07/main/dark.svg" width="100%" alt="Vansh Vats Profile Banner">
-  </picture>
-</div>
+# 💫 About Me
+
+🔭 **I'm currently working on**
+- [FutureReady AI](https://future-ready-ai-vvle.vercel.app/login) – AI-powered career guidance platform
+- RepairX – Intelligent Device Repair & Recovery Network
+- SarkarAI – AI-powered Government Document Intelligence System
+- Exploring innovative AI/ML applications and real-world products
+
+👯 **I'm looking to collaborate on**
+- Open Source Projects
+- AI/ML Applications
+- Full-Stack Web Development
+- Innovative Hackathon Projects
+
+🤝 **I'm looking for help with**
+- Advanced AI/ML Development
+- System Design & Scalable Architecture
+- Research & Applied Machine Learning
+- Building Production-Ready Applications
+
+🌱 **I'm currently learning**
+- Data Structures & Algorithms (C++)
+- Machine Learning & Artificial Intelligence
+- Full-Stack Web Development
+- Python, Data Science & Deep Learning
+- Cloud Technologies & Firebase
+
+💬 **Ask me about**
+- MERN Stack & Backend Development
+- JavaScript, Node.js & Express.js
+- Hackathons & Project Building
+- Open Source Contributions
+- Beginner-Friendly AI/ML Projects
+- DSA in C++
+
+⚡ **Fun fact**
+- I've participated in 15+ hackathons, built real-world projects, and been a finalist in multiple competitions while pursuing my undergraduate degree.
 
 ---
 
-### About Me
+## 🌐 Socials
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering (Artificial Intelligence) at MAIT.
-- 💻 Building full-stack applications using JavaScript, Node.js, Express and MongoDB.
-- 🤖 Currently learning Machine Learning, Python and statistical foundations.
-- 🧠 Practising Data Structures and Algorithms in C++.
-- 🔬 Interested in AI research, applied ML and engineering impactful products.
-- 🚀 Enjoy participating in hackathons and building products with teams.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshvats07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshvats07)
 
-### What I'm Building
+---
 
-| Project | Description |
-|---|---|
-| [FutureReady AI](https://future-ready-ai-vvle.vercel.app/login) | AI-powered career readiness platform. |
-| **RepairX** | Intelligent device repair, refurbishment, resale and recovery network. |
-| **PatchCraft AI** | Prompt-driven video editing with localized, precise edits. |
-| **VyaparMitra** | Digital business companion for small-business owners. |
-| **EchoLink** | Communication and SOS-focused platform. |
-
-### Tech Stack
+## 💻 Tech Stack
 
 **Languages**
 
-`C++` `JavaScript` `Python`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
+**Frontend Development**
 
-`HTML` `CSS` `React` `Next.js`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend**
+**Backend & Databases**
 
-`Node.js` `Express.js` `REST APIs` `JWT`
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Database & Tools**
+**Tools & Technologies**
 
-`MongoDB` `Git` `GitHub`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Currently Learning**
+**Currently Exploring**
 
-`Machine Learning` `Statistics` `Data Science` `AI/ML Fundamentals`
-
-*My focus is on strengthening fundamentals and applying what I learn through projects.*
-
-### Achievements & Highlights
-
-- **9.21 GPA** — Academic performance.
-- **500+ DSA problems** solved across platforms.
-- **4x Hackathon Finalist**.
-- **Top 10 Finish** — DEADLOCK '26 Round 2 with Team CodeGang.
-- **Unstop Campus Champion**.
-- Participated in **15+ hackathons**.
-- **Adobe University Hackathon** — Round 2.
-
-### GitHub
-
-<div align="center">
-  <a href="https://github.com/vanshvats07">
-    <img src="https://github-readme-stats.vercel.app/api?username=vanshvats07&show_icons=true&theme=transparent&hide_border=true" alt="Vansh's GitHub statistics">
-  </a>
-  <br>
-  <a href="https://github.com/vanshvats07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshvats07&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
-  </a>
-</div>
-
-### Connect With Me
-
-- **GitHub:** https://github.com/vanshvats07
-- **LinkedIn:** https://linkedin.com/in/vanshvats07
-- **Portfolio:** https://vansh-portfolio-xi-blond.vercel.app
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-<div align="center">
-  <i>"Build things. Solve problems. Keep learning."</i>
-</div>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vanshvats07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=vanshvats07&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshvats07&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=vanshvats07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=vanshvats07&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/vanshvats07)
+
